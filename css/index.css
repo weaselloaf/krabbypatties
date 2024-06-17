@@ -1,0 +1,27 @@
+.centered_text {
+    font-size: large;
+}
+.bolded_text {
+    font-weight: lighter;
+}
+
+.card_title {
+    font-weight: bolder;
+    font-size: large;
+    text-align: center;
+}
+.body_color {background-color: aquamarine;}
+
+#card_body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lavender;
+}
+.card_image {
+    width: 500px;
+}
+
+img {
+    width: 100%
+}
